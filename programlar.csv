@@ -1,0 +1,33 @@
+program_adi,winget_komutu,versiyon,aciklama
+Google Chrome,winget install --id=Microsoft.MicrosoftEdge,latest,--source winget
+Firefox,winget install --id=Mozilla.Firefox,latest,--source winget
+Adobe Photoshop,winget install --id=Adobe.Photoshop.CreativeCloud,latest,--source winget
+Microsoft Excel,winget install --id=Microsoft.Office.Excel,latest,--source winget
+VLC Media Player,winget install --id=VideoLAN.VLC,latest,--source winget
+Spotify,winget install --id=Spotify.Spotify,latest,--source winget
+Microsoft Teams,winget install --id=Microsoft.Teams,latest,--source winget
+Zoom,winget install --id=Zoom.Zoom,latest,--source winget
+Slack,winget install --id=Slack.Slack,latest,--source winget
+Evernote,winget install --id=Evernote.Evernote,latest,--source winget
+Microsoft Word,winget install --id=Microsoft.Office.Word,latest,--source winget
+Photoshop Express,winget install --id=Adobe.PhotoshopExpress,latest,--source winget
+GIMP,winget install --id=GIMP.GIMP,latest,--source winget
+Audacity,winget install --id=Audacity.Audacity,latest,--source winget
+TeamViewer,winget install --id=TeamViewer.TeamViewer,latest,--source winget
+HandBrake,winget install --id=HandBrake.HandBrake,latest,--source winget
+OBS Studio,winget install --id=OBSProject.OBS-Studio,latest,--source winget
+Paint.NET,winget install --id=dotPDN.PaintDotNet,latest,--source winget
+Blender,winget install --id=BlenderFoundation.Blender,latest,--source winget
+Inkscape,winget install --id=Inkscape.Inkscape,latest,--source winget
+Adobe Acrobat Reader,winget install --id=Adobe.Acrobat.Reader.DC,latest,--source winget
+Discord,winget install --id=Discord.Discord,latest,--source winget
+WhatsApp,winget install --id=WhatsApp.WhatsApp,latest,--source winget
+Notepad++,winget install --id=NotepadPlusPlus.NotepadPlusPlus,latest,--source winget
+FileZilla,winget install --id=FileZillaProject.FileZillaClient,latest,--source winget
+WinRAR,winget install --id=WinRAR.WinRAR,latest,--source winget
+7-Zip,winget install --id=7-Zip.7-Zip,latest,--source winget
+TeamSpeak,winget install --id=TeamSpeak.TeamSpeakClient,latest,--source winget
+WinSCP,winget install --id=WinSCP.WinSCP,latest,--source winget
+PuTTY,winget install --id=SimonTatham.PuTTY,latest,--source winget
+VLC Media Player (ARM64),winget install --id=VideoLAN.VLC,latest,--source winget --arch=arm64
+Steam,winget install --id=Valve.Steam,latest,--source winget

@@ -1,0 +1,15 @@
+/workspaces/C-uygulama/uygulama/bin/Debug/net8.0/uygulama
+/workspaces/C-uygulama/uygulama/bin/Debug/net8.0/uygulama.deps.json
+/workspaces/C-uygulama/uygulama/bin/Debug/net8.0/uygulama.runtimeconfig.json
+/workspaces/C-uygulama/uygulama/bin/Debug/net8.0/uygulama.dll
+/workspaces/C-uygulama/uygulama/bin/Debug/net8.0/uygulama.pdb
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.AssemblyInfoInputs.cache
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.AssemblyInfo.cs
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.csproj.CoreCompileInputs.cache
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.sourcelink.json
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.dll
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/refint/uygulama.dll
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.pdb
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/uygulama.genruntimeconfig.cache
+/workspaces/C-uygulama/uygulama/obj/Debug/net8.0/ref/uygulama.dll
